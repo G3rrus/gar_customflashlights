@@ -1,4 +1,4 @@
-name = "Custom Flashlights";
+name = "G4rrus' Custom Flashlights";
 picture = "icon.paa";
 logo = "icon.paa";
 logoOver = "icon.paa";
