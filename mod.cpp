@@ -1,0 +1,12 @@
+name = "Custom Flashlights";
+picture = "icon.paa";
+logo = "icon.paa";
+logoOver = "icon.paa";
+actionName = "Github";
+action = "https://steamcommunity.com/groups/AMFF-CTR";
+description = "Adds variants of the vanilla flashlight with different illumination levels and cones.";
+tooltip = "Adds variants of the vanilla flashlight with different illumination levels and cones.";
+tooltipOwned = "Adds variants of the vanilla flashlight with different illumination levels and cones.";
+overview = "Adds variants of the vanilla flashlight with different illumination levels and cones.";
+overviewPicture = "icon.paa";
+author = "G4rrus";
