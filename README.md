@@ -18,7 +18,7 @@ Q: Can you please make "X" variant of the flashlight?\
 A: No, but you can open a PR and I'll check it out, if I like it a lot I'll add it.
 
 Q: Why can't I find the flashlights in the editor?\
-A: Because I haven't them added to be available in the editor.
+A: Because I haven't added them to be available in the editor.
 
 ## Additional
 This mod is also available on the steam workshop:\
