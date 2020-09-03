@@ -21,4 +21,7 @@ Q: Why can't I find the flashlights in the editor?\
 A: Because I haven't them added to be available in the editor.
 
 ## Additional
-This mod is also available on the steam workshop:
+This mod is also available on the steam workshop:\
+https://steamcommunity.com/sharedfiles/filedetails/?id=2218330498
+
+Special thanks to my friend Jeremy Lullaby who helped me with the icon, and gave me feedback.
