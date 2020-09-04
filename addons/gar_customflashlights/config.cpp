@@ -26,6 +26,9 @@ class cfgWeapons {
         displayName = "Flashlight LED (Wide)";
         descriptionUse = "Heavy duty LED flashlight 6000 Lumen";
         descriptionShort = "Heavy duty LED flashlight 6000 Lumen";
+        MRT_SwitchItemNextClass = "gar_flashlight_led";
+        MRT_SwitchItemPrevClass = "gar_flashlight_ledfocused";
+        MRT_switchItemHintText = "Wide";
         class ItemInfo: InventoryFlashLightItem_Base_F {
             mass=6;
             RMBhint="Flashlight LED (Wide)";
@@ -62,6 +65,9 @@ class cfgWeapons {
         displayName = "Flashlight LED (Beam)";
         descriptionUse = "Heavy duty LED flashlight 6000 Lumen";
         descriptionShort = "Heavy duty LED flashlight 6000 Lumen";
+        MRT_SwitchItemNextClass = "gar_flashlight_ledwide";
+        MRT_SwitchItemPrevClass = "gar_flashlight_led";
+        MRT_switchItemHintText = "Beam";
         class ItemInfo: InventoryFlashLightItem_Base_F {
             mass=6;
             RMBhint="Flashlight LED (Beam)";
@@ -98,6 +104,9 @@ class cfgWeapons {
         displayName = "Flashlight LED";
         descriptionUse = "Heavy duty LED flashlight 6000 Lumen";
         descriptionShort = "Heavy duty LED flashlight 6000 Lumen";
+        MRT_SwitchItemNextClass = "gar_flashlight_ledfocused";
+        MRT_SwitchItemPrevClass = "gar_flashlight_ledwide";
+        MRT_switchItemHintText = "Default";
         class ItemInfo: InventoryFlashLightItem_Base_F {
             mass=6;
             RMBhint="Flashlight LED";
@@ -134,6 +143,9 @@ class cfgWeapons {
         displayName = "Strong Flashlight (Wide)";
         descriptionUse = "Heavy duty flashlight";
         descriptionShort = "Heavy duty flashlight";
+        MRT_SwitchItemNextClass = "gar_flashlight_bulb";
+        MRT_SwitchItemPrevClass = "gar_flashlight_bulbfocused";
+        MRT_switchItemHintText = "Wide";
         class ItemInfo: InventoryFlashLightItem_Base_F {
             mass=6;
             RMBhint="Strong Flashlight (Wide)";
@@ -170,6 +182,9 @@ class cfgWeapons {
         displayName = "Strong Flashlight (Beam)";
         descriptionUse = "Heavy duty flashlight";
         descriptionShort = "Heavy duty flashlight";
+        MRT_SwitchItemNextClass = "gar_flashlight_bulbwide";
+        MRT_SwitchItemPrevClass = "gar_flashlight_bulb";
+        MRT_switchItemHintText = "Beam";
         class ItemInfo: InventoryFlashLightItem_Base_F {
             mass=6;
             RMBhint="Strong Flashlight (Beam)";
@@ -206,6 +221,9 @@ class cfgWeapons {
         displayName = "Strong Flashlight";
         descriptionUse = "Heavy duty flashlight";
         descriptionShort = "Heavy duty flashlight";
+        MRT_SwitchItemNextClass = "gar_flashlight_bulbfocused";
+        MRT_SwitchItemPrevClass = "gar_flashlight_bulbwide";
+        MRT_switchItemHintText = "Default";
         class ItemInfo: InventoryFlashLightItem_Base_F {
             mass=6;
             RMBhint="Strong Flashlight";
