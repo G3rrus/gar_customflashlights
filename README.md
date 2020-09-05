@@ -5,10 +5,9 @@ This mod adds a few "stronger" variants of the vanilla flashlight to the arsenal
 ## Requirements:
 This mod relies on the following mods:
 * CBA_A3: https://github.com/CBATeam/CBA_A3
-* ACE3: https://github.com/acemod/ACE3
 
 ## Installation:
-Just load this mod together with CBA_A3 and ACE3 and you should be able to use the flashlights like and other weapon attachement.
+Just load this mod together with CBA_A3 and you should be able to use the flashlights like and other weapon attachement.
 
 ### FAQ:
 Q: Is there anyway you can fix that the flashlights look much stronger on others than on yourself?\

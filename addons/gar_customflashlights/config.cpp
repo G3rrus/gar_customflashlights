@@ -11,7 +11,7 @@ class CfgPatches {
             "gar_flashlight_red"
         };
         requiredVersion = 0.1;
-        requiredAddons[] = {"ace_laserpointer"};
+        requiredAddons[] = {"cba_jr"};
         author[] = {"G4rrus"};
         authorUrl = "";
     };
